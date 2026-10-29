@@ -7,7 +7,7 @@
 #   3 poeng = norming-fasen, 1-2 poeng = delvis løst, 0 poeng = forsinket
 #
 # Kjør i terminalen med:  python master.py
-
+ 
 
 def hent_valg():
     # Spør helt til brukeren skriver A eller B (store eller små bokstaver)
